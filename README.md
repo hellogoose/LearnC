@@ -8,3 +8,5 @@ Main language is Polish, but I'm going to translate it to English, when this boo
 Writing progress: 19% [XXXXXXXXX-----------------------------------------]; 15/72
 
 Translation progress: 0% [--------------------------------------------------] 0/72
+
+WARNING: THIS BRANCH IS STALE AND WILL NOT BE UPDATED.

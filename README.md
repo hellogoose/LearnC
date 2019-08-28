@@ -1,5 +1,8 @@
 # Learn C
 
+## WARNING: This branch contains book in the state it was before first review.
+## It may contain mistakes and all this sort of stuff.
+
 "Learn C" is C book I wrote. It's available in two languages, [![English](https://github.com/KrzysztofSzewczyk/LearnC/raw/master/common/english.bmp "English")](English) and [![Polish](https://github.com/KrzysztofSzewczyk/LearnC/raw/master/common/polish.bmp "Polish")](Polish)
  
 Motivation is simple enough, I just wanted to share my knowledge about C programming.
